@@ -31,7 +31,7 @@ Select Projects from Git(with smart import) -> Next
 
 Select Clone URI -> Next
 
-In URI paste this url: https://github.com/khanmdalam/online-voting-system-ovs -> Next
+In URI paste this url:https://github.com/junaid-346/online-voting-system-ovs-main-> Next
 
 Now in Local Destination
 
